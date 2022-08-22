@@ -3,4 +3,5 @@
 Скачать проект из github и открыть в IDE (например, sublime):
 Запустить команду в гитбаше (в папке cypress): npm install
 Установить cypress (в гитбаше): npm install cypress --save-dev
+Все новые тесты нужно писать в папке /integration
 Запускать автотесты командой npm run start
